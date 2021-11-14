@@ -10,14 +10,14 @@
 
 
  <img align="left" alt="instagram" width="22px" src="https://cdn-0.smartandroid.fr/wp-content/uploads/2020/10/probleme-story-instagram6.png?ezimgfmt=rs:256x256/rscb8/ng:webp/ngcb8" />
- <a href ="mailto:ERKeserdzhieva20@codingburgas.bg"><p> @el.keserdzhieva</p></a>
+ <a href ="https://www.instagram.com/el.keserdzhieva/" target="_blank"><p> @el.keserdzhieva</p></a>
 
 
 
 
 
  <img align="left" alt="instagram" width="22px" src="https://www.m-files.com/wp-content/uploads/2021/01/Microsoft-Outlook-256px.png" />
- <a href ="mailto:ERKeserdzhieva20@codingburgas.bg"><p> @ERKeserdzhieva20@codingburgas.bg</p></a>
+ <a href ="mailto:ERKeserdzhieva20@codingburgas.bg" target="_blank"><p> @ERKeserdzhieva20@codingburgas.bg</p></a>
 
 
 
