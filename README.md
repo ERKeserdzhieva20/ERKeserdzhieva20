@@ -1,6 +1,6 @@
 <h1> Hi there  </h1>
   <img align=right src="https://thumbs.gfycat.com/AgreeableCrispBlackrhino-size_restricted.gif" height="250px", width="250">
-    <p>My  name is <a href="https://github.com/VTIvanov20">Elena Keserdzhieva</a> and I'm student at VSCPI. I have known that programing is my thing, since i opened Scratch for first time in 5th grade. I'm always open to learning new stuff and doing new projects.</p>
+    <p>My  name is <a href="https://github.com/ERKeserdzhieva20">Elena Keserdzhieva</a> and I'm student at VSCPI. I have known that programing is my thing, since i opened Scratch for first time in 5th grade. I'm always open to learning new stuff and doing new projects.</p>
 
 <hr>
 
