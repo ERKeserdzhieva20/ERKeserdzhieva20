@@ -1,6 +1,6 @@
 <h1> Hi there  </h1>
   <img align=right src="https://thumbs.gfycat.com/AgreeableCrispBlackrhino-size_restricted.gif" height="250px", width="250">
-    <p>My  name is <a href="https://github.com/ERKeserdzhieva20">Elena Keserdzhieva</a> and I'm student at VSCPI. I have known that programing is my thing, since i opened Scratch for first time in 5th grade. I'm always open to learning new stuff and doing new projects.</p>
+    <p>My  name is <a href="https://github.com/ERKeserdzhieva20">Elena Keserdzhieva</a> and I'm student at VSCPI. 
 
 <hr>
 
@@ -15,14 +15,12 @@
 
 
 
+<br>
+<br>
 
 
-
-<div align="center">
-     ˚ ⁀➷
-</div>
 <hr>
-   <h4>➳  Languages and Tools:</h4>
+   <h3>➳  Languages and Tools:</h3>
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -30,20 +28,19 @@
   </a>
 </p>
   <h5>➳ Currently learning and React, Java and C#</h5>
-  <br>
- <br>
+
+<br>
  
- <div align="center">
-     ˚ ⁀➷
-</div>
+ 
 <hr>
- <h4>➳ How to reach me: </h4><br>
+ <h3>➳ How to reach me: </h3><br>
 
 
- <img align="left" alt="instagram" width="22px" src="https://cdn-0.smartandroid.fr/wp-content/uploads/2020/10/probleme-story-instagram6.png?ezimgfmt=rs:256x256/rscb8/ng:webp/ngcb8" />
- <a href ="https://www.instagram.com/el.keserdzhieva/" target="_blank"><p> @el.keserdzhieva</p></a>
-  <img align="left" alt="instagram" width="22px" src="[https://cdn-0.smartandroid.fr/wp-content/uploads/2020/10/probleme-story-instagram6.png?ezimgfmt=rs:256x256/rscb8/ng:webp/ngcb8](https://logos-world.net/wp-content/uploads/2021/02/Outlook-Logo.png)" />
- <a href ="mailto:ERKeserdzhieva20@codingburgas.bg" target="_blank"><p> @ERKeserdzhieva20@codingburgas.bg</p></a>
+ <p align="left">
+<a href="https://instagram.com/el.keserdzhieva" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="_taetaesgirl-" height="40" width="40" /></a>
+<a href="https://discord.gg/JRwdG4mb" target="blank"><img align="center" src="https://theme.zdassets.com/theme_assets/678183/84b82d07b293907113d9d4dafd29bfa170bbf9b6.ico" alt="toymaf#4778" height="40" width="40" /></a>
+<a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="blank"><img align="center" src="https://portal.manage.microsoft.com/conditionalAccess/images/Outlook.png" alt="toymaf#4778" height="40" width="40" /></a>
+</p>
 
   <br>
     
