@@ -24,7 +24,7 @@
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,cpp,flutter,html,css" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,cpp,flutter,dart,html,css,javascript" />
   </a>
 </p>
   <h5>➳ Currently learning and React, Java and C#</h5>
