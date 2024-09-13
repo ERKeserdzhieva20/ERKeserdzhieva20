@@ -37,9 +37,7 @@
 
 
  <p align="left">
-<a href="https://instagram.com/el.keserdzhieva" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="_taetaesgirl-" height="40" width="40" /></a>
-<a href="https://discord.gg/JRwdG4mb" target="blank"><img align="center" src="https://theme.zdassets.com/theme_assets/678183/84b82d07b293907113d9d4dafd29bfa170bbf9b6.ico" alt="toymaf#4778" height="40" width="40" /></a>
-<a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="blank"><img align="center" src="https://portal.manage.microsoft.com/conditionalAccess/images/Outlook.png" alt="toymaf#4778" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/elena-keserdzhieva-154ab3312/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" height="40" width="40" /></a>
 </p>
 
   <br>
